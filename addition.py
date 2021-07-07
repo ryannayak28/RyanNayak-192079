@@ -1,6 +1,4 @@
 # this program adds two numbers
 
-a = 6
-b = 9
+print('Result = %.f' %(float(input('Enter first no. ')) + float(input('Enter second no. '))))
 
-print(a + b)
